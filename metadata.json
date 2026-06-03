@@ -1,0 +1,6 @@
+{
+  "name": "Aesthetic Wallpapers",
+  "description": "Browse, download, set high-resolution landscape backgrounds, organize favorites, and enjoy simulated daily uploads notifications.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

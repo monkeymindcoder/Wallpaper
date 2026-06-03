@@ -1,0 +1,28 @@
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    
+    <!-- Beautiful Glowing Sun -->
+    <path
+        android:fillColor="#4EF3C1"
+        android:pathData="M54,28c7.73,0 14,6.27 14,14s-6.27,14 -14,14s-14,-6.27 -14,-14s6.27,-14 14,-14z" />
+        
+    <!-- Left Mountain (Back) -->
+    <path
+        android:fillColor="#54607A"
+        android:pathData="M22,78l26,-36l22,36z" />
+        
+    <!-- Right Mountain (Front, overlapping) -->
+    <path
+        android:fillColor="#1C2434"
+        android:pathData="M44,78l24,-30l20,30z" />
+        
+    <!-- Sleek Horizon Accent Line -->
+    <path
+        android:strokeColor="#FFFFFF"
+        android:strokeWidth="1.5"
+        android:strokeLineCap="round"
+        android:pathData="M18,78h72" />
+</vector>
